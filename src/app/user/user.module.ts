@@ -16,11 +16,7 @@ import { ContentComponent } from './content/content.component';
 
 @NgModule({
   declarations: [
-    LoginComponent,
-    RegisterComponent,
-    HomeComponent,
-    AdminComponent,
-    ContentComponent
+
   ],
   imports: [
     CommonModule,
