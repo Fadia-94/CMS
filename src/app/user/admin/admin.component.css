@@ -1,0 +1,15 @@
+h1{
+    padding-top: 20px;
+   text-align: center;
+    color: 	black;
+}
+
+.admin-form .form-control {
+    max-width: 500px;
+}
+.body{
+    background-color: rosybrown;
+    height: 800px;
+   
+    
+}

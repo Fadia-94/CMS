@@ -1,0 +1,16 @@
+
+.body{
+    background-color: rosybrown;
+    height: 800px;
+   
+    
+}
+h1{
+    padding-top: 20px;
+   text-align: center;
+    color: 	black;
+}
+
+.login-form .form-control {
+    max-width: 500px;
+}
