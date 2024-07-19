@@ -18,11 +18,7 @@ import { HttpClientModule } from '@angular/common/http';
 @NgModule({
   declarations: [
     AppComponent,
-    RegisterComponent,
-    LoginComponent,
-    AdminComponent,
-    HomeComponent,
-    ContentComponent,
+    
     DropdownComponent,
   ],
   imports: [

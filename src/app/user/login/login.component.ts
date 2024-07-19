@@ -17,7 +17,6 @@ export class LoginComponent implements OnInit {
 
   constructor( private router: Router,private dataService: DataService,private userService:UserService) {}
   ngOnInit(): void {
-    throw new Error('Method not implemented.');
   }
 
   login(): void {
